@@ -1,0 +1,6 @@
+[
+    { "name": "Diamond Block", "price": 35000000 },
+    { "name": "Netherite Ingot", "price": 2500000 },
+    { "name": "Enchanted Golden Apple", "price": 150000 },
+    { "name": "Beacon", "price": 250000000}
+]
